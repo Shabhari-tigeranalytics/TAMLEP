@@ -1,2 +1,2 @@
 # TAMLEP
-TAMLEP Assignments submission
+TAMLEP Assignment submissions
