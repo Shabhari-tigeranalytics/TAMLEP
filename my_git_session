@@ -1,0 +1,578 @@
+Script started on 2022-12-30 13:39:38+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="30"]
+[?2004h]0;sabari_tiger@TIGER0253: ~[01;32msabari_tiger@TIGER0253[00m:[01;34m~[00m$ cd /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/my_git_session
+[?2004lbash: cd: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/my_git_session: Not a directory
+[?2004h]0;sabari_tiger@TIGER0253: ~[01;32msabari_tiger@TIGER0253[00m:[01;34m~[00m$ cd /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/my_git_session[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[K*putls ??put[1P*put[Krm -r datai[C[C[C[C[C[3Pdatals[Kcd ..mv draft.txt ../input/ls[Kcd output/..[K[3Plscd ..[3Plscd input/[4P..[3Plsmv /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/input/draft.txt .[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C~input/draft.txt ..[K/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/input/draft.txt .[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C~input/draft.txt ..[K[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[1@/[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[10Pcd output/..[K[K[2Plscd input/ls[Kcd /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/
+[?2004l[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1[00m$ git init
+[?2004lerror: chmod on /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/.git/config.lock failed: Operation not permitted
+fatal: could not set 'core.filemode' to 'false'
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1[00m$ cd git_assignment/
+[?2004l[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ la
+[?2004l[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ la[Ks
+[?2004l[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ git init
+[?2004lerror: chmod on /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment/.git/config.lock failed: Operation not permitted
+fatal: could not set 'core.filemode' to 'false'
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ git init
+[?2004lerror: chmod on /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment/.git/config.lock failed: Operation not permitted
+fatal: could not set 'core.repositoryformatversion' to '0'
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ ^C[?2004l[?2004h[?2004l
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ git initsinituinitdinitoinit init
+[?2004lgit: 'sudo' is not a git command. See 'git --help'.
+
+The most similar command is
+	submodule
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ git sudo init[1Pinit[1Pinit[1Pinit[1Pinit[1Pinit[1Pinit init[1@s[1@u[1@d[1@o[1@ 
+[?2004l[sudo] password for sabari_tiger: 
+Reinitialized existing Git repository in /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment/.git/
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ git cong[Kfig user.name
+[?2004lShabhari_tiger_git
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ git config user.name[K[K[K[K[K[K[K[K[K[K
+[?2004lusage: git config [<options>]
+
+Config file location
+    --global              use global config file
+    --system              use system config file
+    --local               use repository config file
+    --worktree            use per-worktree config file
+    -f, --file <file>     use given config file
+    --blob <blob-id>      read config from given blob object
+
+Action
+    --get                 get value: name [value-pattern]
+    --get-all             get all values: key [value-pattern]
+    --get-regexp          get values for regexp: name-regex [value-pattern]
+    --get-urlmatch        get value specific for the URL: section[.var] URL
+    --replace-all         replace all matching variables: name value [value-pattern]
+    --add                 add a new variable: name value
+    --unset               remove a variable: name [value-pattern]
+    --unset-all           remove all matches: name [value-pattern]
+    --rename-section      rename section: old-name new-name
+    --remove-section      remove a section: name
+    -l, --list            list all
+    --fixed-value         use string equality when comparing values to 'value-pattern'
+    -e, --edit            open an editor
+    --get-color           find the color configured: slot [default]
+    --get-colorbool       find the color setting: slot [stdout-is-tty]
+
+Type
+    -t, --type <>         value is given this type
+    --bool                value is "true" or "false"
+    --int                 value is decimal number
+    --bool-or-int         value is --bool or --int
+    --bool-or-str         value is --bool or string
+    --path                value is a path (file or directory name)
+    --expiry-date         value is an expiry date
+
+Other
+    -z, --null            terminate values with NUL byte
+    --name-only           show variable names only
+    --includes            respect include directives on lookup
+    --show-origin         show origin of config (file, standard input, blob, command line)
+    --show-scope          show scope of config (worktree, local, global, system, command)
+    --default <value>     with --get, use default value when missing entry
+
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ git config --[K[K[K[Kg --list
+[?2004l[?1h=user.name=Shabhari_tiger_git[m
+user.email=shabharivasan.ch@tigeranalytics.com[m
+init.defaultbranch=main[m
+[K[?1l>[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ git status
+[?2004lfatal: detected dubious ownership in repository at '/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ sudo got status
+[?2004l[sudo] password for sabari_tiger: 
+sudo: got: command not found
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ sudo got status[1P[1@i
+[?2004lOn branch main
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ exit
+[?2004lexit
+
+Script done on 2022-12-31 09:26:06+05:30 [COMMAND_EXIT_CODE="0"]
+Script started on 2022-12-31 13:05:56+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="30"]
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1[00m$ git config --global user.name "John Doe"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"s"[1P"S"h"a"b"h"a"r"i"-"t" [A]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ci"g"e"r"a"n"a"l"y"t"i"c"s"]"[1P"
+[?2004l[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1[00m$ git config --global user.email johndoe@example.com[K[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K shabharivas an.ch@tigeranalytics.com
+[?2004l[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1[00m$ git config --list
+[?2004l[?1h=user.name=Shabhari-tigeranalytics[m
+user.email=shabharivasan.ch@tigeranalytics.com[m
+init.defaultbranch=main[m
+[K[?1l>[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1[00m$ 
+[?2004l[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1[00m$ cd git_assignment/
+[?2004l[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ gt i[K[K[Kit init
+[?2004lInitialized empty Git repository in /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment/.git/
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ ls
+[?2004l[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ ls
+[?2004l[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ git add .c
+[?2004lfatal: pathspec '.c' did not match any files
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ git add .c*.c
+[?2004lfatal: pathspec '*.c' did not match any files
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ git clone https://github.com/Shabhari-tigeranalytics/TAMLEP.git
+[?2004lCloning into 'TAMLEP'...
+remote: Enumerating objects: 6, done.[K
+remote: Counting objects:  16% (1/6)[Kremote: Counting objects:  33% (2/6)[Kremote: Counting objects:  50% (3/6)[Kremote: Counting objects:  66% (4/6)[Kremote: Counting objects:  83% (5/6)[Kremote: Counting objects: 100% (6/6)[Kremote: Counting objects: 100% (6/6), done.[K
+remote: Compressing objects:  50% (1/2)[Kremote: Compressing objects: 100% (2/2)[Kremote: Compressing objects: 100% (2/2), done.[K
+remote: Total 6 (delta 0), reused 0 (delta 0), pack-reused 0[K
+Receiving objects:  16% (1/6)Receiving objects:  33% (2/6)Receiving objects:  50% (3/6)Receiving objects:  66% (4/6)Receiving objects:  83% (5/6)Receiving objects: 100% (6/6)Receiving objects: 100% (6/6), done.
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ ls
+[?2004l[0m[34;42mTAMLEP[0m
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ cd ta[K[KTAMLEP/
+[?2004l[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment/TAMLEP[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment/TAMLEP[00m$ ls
+[?2004l[0m[01;32mREADME.md[0m
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment/TAMLEP[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment/TAMLEP[00m$ git status
+[?2004lOn branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment/TAMLEP[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment/TAMLEP[00m$ cat .gitignore
+[?2004lcat: .gitignore: No such file or directory
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment/TAMLEP[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment/TAMLEP[00m$ cat .gitignores.gitignorea.gitignorem.gitignorep.gitignorel.gitignoree.gitignore [A]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment/TAMLEP[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment/TAMLEP[00m$ [C[C[C[C[C[C[C[C[C[C
+[?2004lcat: sample.gitignore: No such file or directory
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment/TAMLEP[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment/TAMLEP[00m$ ls
+[?2004l[0m[01;32mREADME.md[0m
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment/TAMLEP[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment/TAMLEP[00m$ cd ..
+[?2004l[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ cd ..[3Plscat sample.gitignore
+[?2004l### AL ###
+#Template for AL projects for Dynamics 365 Business Central
+#launch.json folder
+.vscode/
+#Cache folder
+.alcache/
+#Symbols folder
+.alpackages/
+#Snapshots folder
+.snapshots/
+#Testing Output folder
+.output/
+#Extension App-file
+*.app
+#Rapid Application Development File
+rad.json
+#Translation Base-file
+*.g.xlf
+#License-file
+*.flf
+#Test results file
+TestResults.xml[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ 
+[?2004l[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ ls
+[?2004l[0m[34;42mTAMLEP[0m  [01;32msample.gitignore[0m
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ git stats[Kus
+[?2004lOn branch main
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mTAMLEP/[m
+	[31msample.gitignore[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ cd TAMLEP/
+[?2004l[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment/TAMLEP[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment/TAMLEP[00m$ git status 
+[?2004lOn branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment/TAMLEP[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment/TAMLEP[00m$ git [K[K[K[Kcd ..
+[?2004l[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ git status
+[?2004lOn branch main
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mREADME.md[m
+	[31mTAMLEP/[m
+	[31msample.gitignore[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ git add .[KREADME.md
+[?2004l[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ git status
+[?2004lOn branch main
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	[32mnew file:   README.md[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mTAMLEP/[m
+	[31msample.gitignore[m
+
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ git commit 'First commit'
+[?2004lerror: pathspec 'First commit' did not match any file(s) known to git
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ git commit 'First commit'[K"[1P[1@"
+[?2004lerror: pathspec 'First commit' did not match any file(s) known to git
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ git commit "First commit"[1@-m"First commit" [A]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C "First commit"[A]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+[?2004l[main (root-commit) 98d42ee] First commit
+ 1 file changed, 2 insertions(+)
+ create mode 100644 README.md
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ git status
+[?2004lOn branch main
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mTAMLEP/[m
+	[31msample.gitignore[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ cd Ta[KAMLEP/
+[?2004l[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment/TAMLEP[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment/TAMLEP[00m$ git log
+[?2004l[?1h=[33mcommit cbe2f041d06fdcdaf2d0ab51235fecfb1bfb8f4c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
+Author: Shabhari-tigeranalytics <68264739+Shabhari-tigeranalytics@users.noreply.github.com>[m
+Date:   Sat Dec 31 14:12:33 2022 +0530[m
+[m
+    Update README.md[m
+[m
+[33mcommit ffd794e600e06e208eb04171297a0a4a698d531f[m[m
+Author: Shabhari-tigeranalytics <68264739+Shabhari-tigeranalytics@users.noreply.github.com>[m
+Date:   Sat Dec 31 14:11:48 2022 +0530[m
+[m
+    Initial commit[m
+[K[?1l>[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment/TAMLEP[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment/TAMLEP[00m$ cd ..
+[?2004l[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ git log
+[?2004l[?1h=[33mcommit 98d42eefe7f3909da4a7de13ca73dbd1b945d7f8[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m[m
+Author: Shabhari-tigeranalytics <shabharivasan.ch@tigeranalytics.com>[m
+Date:   Sat Dec 31 14:40:02 2022 +0530[m
+[m
+    First commit[m
+[K[?1l>[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ gity status
+[?2004lCommand 'gity' not found, did you mean:
+  command 'gita' from deb gita (0.16.2-1)
+  command 'gitg' from deb gitg (41-2)
+  command 'git' from deb git (1:2.34.1-1ubuntu1.5)
+  command 'gitk' from deb gitk (1:2.34.1-1ubuntu1.4)
+Try: sudo apt install <deb name>
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ gity status[Kgity status[C[1P status
+[?2004lOn branch main
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mTAMLEP/[m
+	[31msample.gitignore[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ git statusy status[4P log[2Pcd ..git logcd TAMLEP/git statuscommit -m "First commit"[A]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ [C[C[C[C[C[C[C[C[C[C[C[2P"First commit"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C'First commit'status[Kadd README.md[7Pstatus[5Pcd ..git status [1Pcd TAMLEP/git statusls[Kcat sample.gitignored ..[K[3Plscat sample.gitignore[6P.gitignore[4Pgit statusls[Kcd TAMLEP/ls[Kgit clone https://github.com/Shabhari-tigeranalytics/TAMLEP.git[A]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ [C[C[C[Cadd *.c[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclone https://github.com/Shabhari-tigeranalytics/TAMLEP.git[A]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ [C[C[C[Cadd *.c[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P.cls[Kgit initcd git_assignment/[1Pgit config --listglobal user.email shabharivasan.ch@tigeranalytics.com[A]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cnam[11Pe "Shabhari-tigeranalytics"[A]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ script -a /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/my_git_session[A]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ [10Pgit config --list
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cglobal init.defaultBranch main[A]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[Clist[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cglobal user.email shabharivasan.ch@tigeranalytics.com[A]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cnam[16Pe "Shabhari_tiger_git"[A]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ man git[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4Pgitsudo apt-get install gitgit[Kman gitgit config --global user.name "Shabhari_tiger_git"[A]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cemail shabharivasan.ch@tigeranalytics.com[A]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[Clist[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cglobal init.defaultBranch main[A]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[Clist[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cscript -a /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/my_git_session[A]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ git config --global user.nam[23Pe "Shabhari-tigeranalytics"[A]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cemail shabharivasan.ch@tigeranalytics.com[A]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[Clist[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd git_assignment/[10Pgit initls[Kgit add .c*.cclone https://github.com/Shabhari-tigeranalytics/TAMLEP.git[A]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd TAMLEP/ls[Kgit statuscat .gitignoresample.gitignorels[Kcd ..at sample.gitignorels[Kgit statuscd TAMLEP/git status [6Pcd ..git statusadd README.md[7Pstatuscommit 'First commit'"First commit"-m "First commit"[A]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ [C[C[C[Cstatus[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd TAMLEP/[3Pgit log[2Pcd ..git logy status[1P status[Kgit status
+[?2004lOn branch main
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mTAMLEP/[m
+	[31msample.gitignore[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ cd TAMLEP/
+[?2004l[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment/TAMLEP[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment/TAMLEP[00m$ git status
+[?2004lOn branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mBank_data_analysis.R[m
+	[31mloan_analysis.R[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment/TAMLEP[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment/TAMLEP[00m$ git status -s
+[?2004l[31m??[m Bank_data_analysis.R
+[31m??[m loan_analysis.R
+[31m??[m sample.txt
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment/TAMLEP[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment/TAMLEP[00m$ git add[K[K[K[K[K[K[Kgit status 
+[?2004lOn branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mBank_data_analysis.R[m
+	[31mloan_analysis.R[m
+	[31msample.txt[m
+	[31msimple.gitignore[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment/TAMLEP[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment/TAMLEP[00m$ git add
+[?2004lNothing specified, nothing added.
+[33mhint: Maybe you wanted to say 'git add .'?[m
+[33mhint: Turn this message off by running[m
+[33mhint: "git config advice.addEmptyPathspec false"[m
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment/TAMLEP[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment/TAMLEP[00m$ git add .
+[?2004l[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment/TAMLEP[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment/TAMLEP[00m$ go[Kit status
+[?2004lOn branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   Bank_data_analysis.R[m
+	[32mnew file:   loan_analysis.R[m
+	[32mnew file:   sample.txt[m
+	[32mnew file:   simple.gitignore[m
+
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment/TAMLEP[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment/TAMLEP[00m$ git -m commt [K[K[K[K[K[K[K[K[K[K[K[K[Kgit status[1Padd .[Kstatus -s[Kcd TAMLEP/git statusy status[4P log[2Pcd ..git logcd TAMLEP/git statuscommit -m "First commit" "o"f" "f"i"l"e"s"
+[?2004l[main 7a6b338] First commit of files
+ 4 files changed, 310 insertions(+)
+ create mode 100644 Bank_data_analysis.R
+ create mode 100644 loan_analysis.R
+ create mode 100644 sample.txt
+ create mode 100644 simple.gitignore
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment/TAMLEP[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment/TAMLEP[00m$ git sts[Katus
+[?2004lOn branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment/TAMLEP[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment/TAMLEP[00m$ git push
+[?2004lUsername for 'https://github.com': Shabhari-tigeranalytics
+Password for 'https://Shabhari-tigeranalytics@github.com': 
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/Shabhari-tigeranalytics/TAMLEP.git/'
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment/TAMLEP[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment/TAMLEP[00m$ Shabah[K[K[K[K[K[Kgit push
+[?2004lUsername for 'https://github.com': Shabhari-tigeranalytics
+Password for 'https://Shabhari-tigeranalytics@github.com': 
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/Shabhari-tigeranalytics/TAMLEP.git/'
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment/TAMLEP[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment/TAMLEP[00m$ cd .
+[?2004l[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment/TAMLEP[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment/TAMLEP[00m$ cd ..
+[?2004l[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ git status
+[?2004lOn branch main
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mBank_data_analysis.R[m
+	[31mTAMLEP/[m
+	[31msample.gitignore[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ git status[5Pcd ..[Kgit pushstatuscommit -m "First commit of files"
+[?2004lOn branch main
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mBank_data_analysis.R[m
+	[31mTAMLEP/[m
+	[31msample.gitignore[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ git status
+[?2004lOn branch main
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mBank_data_analysis.R[m
+	[31mTAMLEP/[m
+	[31msample.gitignore[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ git add .
+[?2004lwarning: adding embedded git repository: TAMLEP
+[33mhint: You've added another git repository inside your current repository.[m
+[33mhint: Clones of the outer repository will not contain the contents of[m
+[33mhint: the embedded repository and will not know how to obtain it.[m
+[33mhint: If you meant to add a submodule, use:[m
+[33mhint: [m
+[33mhint: 	git submodule add <url> TAMLEP[m
+[33mhint: [m
+[33mhint: If you added this path by mistake, you can remove it from the[m
+[33mhint: index with:[m
+[33mhint: [m
+[33mhint: 	git rm --cached TAMLEP[m
+[33mhint: [m
+[33mhint: See "git help submodule" for more information.[m
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ git add .
+[?2004l[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ git status
+[?2004lOn branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   Bank_data_analysis.R[m
+	[32mnew file:   TAMLEP[m
+	[32mnew file:   sample.gitignore[m
+
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ git status[1Padd .statuscommit -m "First commit of files"
+[?2004l[main 0002717] First commit of files
+ 3 files changed, 161 insertions(+)
+ create mode 100644 Bank_data_analysis.R
+ create mode 160000 TAMLEP
+ create mode 100644 sample.gitignore
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ git status
+[?2004lOn branch main
+nothing to commit, working tree clean
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ git status
+[?2004lOn branch main
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   Bank_data_analysis.R[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ git -a commit
+[?2004lunknown option: -a
+usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           [--super-prefix=<path>] [--config-env=<name>=<envvar>]
+           <command> [<args>]
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ git -a commit[1Pcommit[1Pcommit[1Pcommit[C[C[C[C[C[C[Kt -a
+[?2004lhint: Waiting for your editor to close the file... [?2004h[?1049h[22;0;0t[1;30r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[28;54H(B[0;7m[ Reading... ](B[m[28;53H(B[0;7m[ Read 8 lines ](B[m[H(B[0;7m  GNU nano 6.2    /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment/.git/COMMIT_EDITMSG              [1;119H(B[m[29d(B[0;7m^G(B[m Help[29;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut[29;61H(B[0;7m^T(B[m Execute     (B[0;7m^C(B[m Location    (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Set Mark[30d(B[0;7m^X(B[m Exit[30;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste[61G(B[0;7m^J(B[m Justify     (B[0;7m^/(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy[3d[36m# Please enter the commit message for your changes. Lines starting[4d# with '#' will be ignored, and an empty message aborts the commit.[5d#[6d# On branch main[7d# Changes to be committed:[8d#[38;5;208m       [36mmodified:   Bank_data_analysis.R[9d#[2d[39m(B[m[?12l[?25h[?25l[1;108H(B[0;7m*[119G(B[m[?12l[?25h[2dc[?25l[?12l[?25ho[?25l[?12l[?25hm[?25l[?12l[?25hm[?25l[?12l[?25hi[?25l[?12l[?25ht[?25l[?12l[?25h [?25l[?12l[?25hw[?25l[?12l[?25ho[?25l[?12l[?25h [?25l[?12l[?25ha[?25l[?12l[?25hd[?25l[?12l[?25hd[?25l7[3;27r8[3dM[1;30r[3;1H[?12l[?25h[?25l[3;27r[27;1H
+[1;30r[2;14H[?12l[?25h[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[?25l[28d[K[?12l[?25h[2;9H [?25l[?12l[?25h [?25l[?12l[?25h[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[K[?25l[?12l[?25h[?25l[?12l[?25h[?25l[29;16H[25X[29;41H(B[0;7mM-F(B[m New Buffer[61G[20X[29;81H(B[0;7m^X(B[m Execute Command[K[30;2H(B[0;7mC(B[m Cancel[16G[25X[30;41H(B[0;7mM-N(B[m No Conversion[23X[30;81H(B[0;7m^T(B[m Browse[K[28d(B[0;7mFile to insert [from ./]:                                                                                               [28;27H(B[m[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[28;53H[1K (B[0;7m[ Cancelled ](B[m[K[29;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut   [61G(B[0;7m^T(B[m Execute     (B[0;7m^C(B[m Location    (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Set Mark[30;2H(B[0;7mX(B[m Exit  [16G(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste       (B[0;7m^J(B[m Justify     (B[0;7m^/(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy[?12l[?25h[2d[?25l[2;27r[27;1H
+[1;30r[2;1H[?12l[?25h[?25l[?12l[?25h[3d[?25l[?12l[?25h[4d[?25l[?12l[?25h[5d[?25l[?12l[?25h[6d[?25l[?12l[?25h[7d[?25l[?12l[?25h[8d[?25l[?12l[?25h[C[?25l[?12l[?25h[36m [39m(B[m[?25l[?12l[?25h[36mC[39m(B[m[?25l[?12l[?25h[36mo[39m(B[m[?25l[?12l[?25h[36mm[39m(B[m[?25l[?12l[?25h[36mm[39m(B[m[?25l[?12l[?25h[36mi[39m(B[m[?25l[?12l[?25h[36my[39m(B[m[?25l[?12l[?25h [?25l[?12l[?25h[36mt[39m(B[m[?25l[?12l[?25h[36m [39m(B[m[?25l[?12l[?25h[36mw[39m(B[m[?25l[28d[K[?12l[?25h[8;11H[36mi[39m(B[m[?25l[?12l[?25h[36mt[39m(B[m[?25l[?12l[?25h[36mh[39m(B[m[?25l[?12l[?25h[36mo[39m(B[m[?25l[?12l[?25h[36mu[39m(B[m[?25l[?12l[?25h[36mt[39m(B[m[?25l[?12l[?25h[36m [39m(B[m[?25l[?12l[?25h[36ma[39m(B[m[?25l[?12l[?25h[36md[39m(B[m[?25l[?12l[?25h[36md[39m(B[m[?25l[?12l[?25h[36mi[39m(B[m[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[36md[39m(B[m[?25l[9d[?12l[?25h[?25l[?12l[?25hq[?25l[10d[?12l[?25h[?25l[11d[?12l[?25h[?25l[A[?12l[?25h[?25l[Aq[?12l[?25h[?25l[?12l[?25h[K[?25l[?12l[?25hX[?25l[10d[?12l[?25h[?25l[AX[?12l[?25h[?25l[?12l[?25h[K[?25l[8;21H[?12l[?25h[?25l[28;51H(B[0;1m[37m[41m[ Unbound key: M-` ][39;49m(B[m[?12l[?25h[8;21H[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[28d[K[29;16H         (B[0;7mM-C(B[m Case Sens           (B[0;7mM-B(B[m Backwards           (B[0;7m^P(B[m Older[16X[29;97H(B[0;7m^T(B[m Go To Line[K[30;2H(B[0;7mC(B[m Cancel[16G         (B[0;7mM-R(B[m Reg.exp.            (B[0;7m^R(B[m Replace[14X[30;73H(B[0;7m^N(B[m Newer[K[29;110H[A(B[0;7mSearch [Backwards]:                                                                                                     [28;21H(B[m[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[28;53H[1K (B[0;7m[ Cancelled ](B[m[K[29;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut         (B[0;7m^T(B[m Execute     (B[0;7m^C(B[m Location    (B[0;7mM-U(B[m Undo       (B[0;7mM-A(B[m Set Mark[30;2H(B[0;7mX(B[m Exit  [16G(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste       (B[0;7m^J(B[m Justify     (B[0;7m^/(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy[?12l[?25h[8;21H[?25l[28d(B[0;7mSave modified buffer?                                                                                                   [29;1H Y(B[m Yes[K[30d(B[0;7m N(B[m No  [30;16H (B[0;7m^C(B[m Cancel[K[28;23H[?12l[?25h[?25l[29d(B[0;7m^G(B[m Help[29;31H(B[0;7mM-D(B[m DOS Format[29;61H(B[0;7mM-A(B[m Append[29;91H(B[0;7mM-B(B[m Backup File[30d(B[0;7m^C(B[m Cancel[17G[14X[30;31H(B[0;7mM-M(B[m Mac Format[30;61H(B[0;7mM-P(B[m Prepend[30;91H(B[0;7m^T(B[m Browse[28d(B[0;7mFile Name to Write: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment/.git/COMMIT_EDITMSG(B[m[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[28;53H[1K (B[0;7m[ Writing... ](B[m[K[1;108H(B[0;7m [119G(B[m[28;52H(B[0;7m[ Wrote 7 lines ](B[m[J[30d[?12l[?25h[30;1H[?1049l[23;0;0t[?1l>[?2004l[KAborting commit due to empty commit message.
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ 
+[?2004l[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ git commit -a[C "Commity[K wo ad dition"
+[?2004l^[[6~fatal: paths 'Commit wo addition ...' with -a does not make sense
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ ~git commit -a "Commit wo addition" -a[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C "Commit wo addi[1P[A]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ [C[C[C[C[C[C[C[C[C[C[C[C "Commit wo addit[1P[A]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ [C[C[C[C[C[C[C[C[C[C[C"Commit wo additi[1P[A]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ [C[C[C[C[C[C[C[C[C[C
+
+[?2004lfatal: paths 'Commit wo addition ...' with -a does not make sense
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ git commit -a -m 'Add new benchmarks'
+[?2004l[main 4b3e6c8] Add new benchmarks
+ 1 file changed, 2 insertions(+)
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ git mv README.md README
+[?2004l[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ git status~[K
+[?2004lOn branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mrenamed:    README.md -> README[m
+
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ git log
+[?2004l[?1h=[33mcommit 4b3e6c8a904442616026eab6f151477b62206945[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m[m
+Author: Shabhari-tigeranalytics <shabharivasan.ch@tigeranalytics.com>[m
+Date:   Mon Jan 2 18:53:45 2023 +0530[m
+[m
+    Add new benchmarks[m
+[m
+[33mcommit 0002717d689bac3ca26d47c1e43dd4f21870ed8d[m[m
+Author: Shabhari-tigeranalytics <shabharivasan.ch@tigeranalytics.com>[m
+Date:   Mon Jan 2 18:33:44 2023 +0530[m
+[m
+    First commit of files[m
+[m
+[33mcommit 98d42eefe7f3909da4a7de13ca73dbd1b945d7f8[m[m
+Author: Shabhari-tigeranalytics <shabharivasan.ch@tigeranalytics.com>[m
+Date:   Sat Dec 31 14:40:02 2022 +0530[m
+[m
+    First commit[m
+[K[?1l>[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ git log -p
+[?2004l[?1h=[33mcommit 4b3e6c8a904442616026eab6f151477b62206945[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m[m
+Author: Shabhari-tigeranalytics <shabharivasan.ch@tigeranalytics.com>[m
+Date:   Mon Jan 2 18:53:45 2023 +0530[m
+[m
+    Add new benchmarks[m
+[m
+[1mdiff --git a/Bank_data_analysis.R b/Bank_data_analysis.R[m[m
+[1mindex b1e6c3d..38ecc58 100644[m[m
+[1m--- a/Bank_data_analysis.R[m[m
+[1m+++ b/Bank_data_analysis.R[m[m
+[36m@@ -120,6 +120,8 @@[m [mmaster_dt[ , .(count = length(unique(ACCT_ID))), by = business_catg][m[m
+ [m[m
+ # Count of unique customers by Property category[m[m
+ [m[m
+[32m+[m[41m[7m^M[27m[m[m
+[32m+[m[41m[7m^M[27m[m[m
+ #Creating data table with unique combination of customer id and business catg[m[m
+ master_dt_unique_by_customer_busiess_catg <- unique(master_dt, by = c('CUST_ID', 'business_catg'))[m[m
+ master_dt_unique_by_customer_busiess_catg[ , customer_count_by_business_catg := .N, by = .(CUST_ID )][m[m
+[m
+[33mcommit 0002717d689bac3ca26d47c1e43dd4f21870ed8d[m[m
+Author: Shabhari-tigeranalytics <shabharivasan.ch@tigeranalytics.com>[m
+Date:   Mon Jan 2 18:33:44 2023 +0530[m
+[m
+    First commit of files[m
+[m
+[1mdiff --git a/Bank_data_analysis.R b/Bank_data_analysis.R[m[m
+[1mnew file mode 100644[m[m
+[1mindex 0000000..b1e6c3d[m[m
+:[K[K [KESCESC[KESCESC[K [KESCESC[KESCESC[K [KESCESC[KESCESC[K [KESCESC[KESCESC[K [KESCESC[KESCESC[K [KESCESC[KESCESC[K [KESCESC[KESCESC[K [KESCESC[KESCESC[K [KESCESC[KESCESC[K [KESCESC[KESCESC[K [KESCESC[KESCESC[K [KESCESC[KESCESC[K [KESCESC[KESCESC[K [KESCESC[KESCESC[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K:[K[K[1m--- /dev/null[m[m
+:[K[K[1m+++ b/Bank_data_analysis.R[m[m
+:[K[K[36m@@ -0,0 +1,138 @@[m[m
+:[K[K[32m+[m[32mrm(list = ls())[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[32mgc()[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[32m#---- Libraries ----[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[32mlibrary(data.table)[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[32mlibrary(openxlsx)[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[32mlibrary(dplyr)[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[32m#---- Reading Inputs ----[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[32m#Mention the folder path where files are placed[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[32minp_dir <- 'C:/Users/shabharivasan.ch/Desktop/others/Input/'[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[32m# CASA File[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[32m# Enter file name and sheet name in the below line[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[32mCASA_dt <- read.xlsx(paste0(inp_dir, "CASA_file_1.xlsx"), sheet='Sheet1')[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[32msetDT(CASA_dt)[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[32m# FD File[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[32m# Enter file name in the below line[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[32mFD_dt <- fread(paste0(inp_dir, "FD_file.csv"))[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[32m# When reading CSV file if column names have space (ex: Branch Type), it will be read with space[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[32m# When reading excel file if column names have space (ex: Branch Type), space will be replaced with dot[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[32m# To make it uniform with excel format replacing space with .[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[32mnames(FD_dt) <- gsub(" ", ".", names(FD_dt))[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[32m# RD File[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[32m# Enter file name in the below line[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[32mRD_dt <- fread(paste0(inp_dir, "RD_file.csv"))[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[32mnames(RD_dt) <- gsub(" ", ".", names(RD_dt))[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[32m# Customer File[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[32m# Enter file name and sheet name in the below line[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[32mcustomer_dt_1 <- read.xlsx(paste0(inp_dir, "customer_file.xlsx"), sheet='customer_sheet_1')[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[32msetDT(customer_dt_1)[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[32m# Assuming customer file has multiple sheets reading one additional sheet as an example[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[32mcustomer_dt_2 <- read.xlsx(paste0(inp_dir, "customer_file.xlsx"), sheet='customer_sheet_2')[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[32msetDT(customer_dt_2)[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[32m#combining multiple sheet to a single data table[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[32mcustomer_dt <- rbind(customer_dt_1, customer_dt_2)[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[32m# removing individual sheet as they are no longer needed[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[32mrm(customer_dt_1, customer_dt_2)[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[32m#---- Combining various business categories ----[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[32m# Renaming account id column from different sources[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[32m# Also adding business catg identifer column[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[32msetnames(CASA_dt,[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[32m         old = c('CASA_ACCT_ID'),[m[41m [7m^M[27m[m[m
+:[K[K[32m+[m[32m         new = c('ACCT_ID'))[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[32mCASA_dt[, business_catg := 'CASA'][m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[32msetnames(FD_dt,[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[32m         old = c('FD_ACCT_ID'),[m[41m [7m^M[27m[m[m
+:[K[K[32m+[m[32m         new = c('ACCT_ID'))[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[32mFD_dt[, business_catg := 'FD'][m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[32msetnames(RD_dt,[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[32m         old = c('RD_ACCT_ID'),[m[41m [7m^M[27m[m[m
+:[K[K[32m+[m[32m         new = c('ACCT_ID'))[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[32mRD_dt[, business_catg := 'RD'][m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[32m# Appending different business catagory data tables to create master table[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[32mmaster_dt <- bind_rows(CASA_dt, FD_dt, RD_dt, id = NULL)[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[32mdim(master_dt)[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[32m# merging customer information with master table[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[32mmaster_dt <- merge( x= master_dt,[m[41m[7m^M[27m[m[m
+:[K[K[32m+[m[32m                    y= customer_dt,[m[41m[7m^M[27m[m[m
+:[K[K[?1l>[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ 
+[?2004l[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ cd
+[?2004l[?2004h]0;sabari_tiger@TIGER0253: ~[01;32msabari_tiger@TIGER0253[00m:[01;34m~[00m$ cd /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment
+[?2004l[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ cd /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kls
+[?2004l[0m[01;32mBank_data_analysis.R[0m  [01;32mREADME[0m  [34;42mTAMLEP[0m  [01;32msample.gitignore[0m
+[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ git remote
+[?2004l[?2004h]0;sabari_tiger@TIGER0253: /mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[01;32msabari_tiger@TIGER0253[00m:[01;34m/mnt/c/Users/shabharivasan.ch/Desktop/TAMLEP/Module_1/git_assignment[00m$ exit
+[?2004lexit
+
+Script done on 2023-01-02 19:18:40+05:30 [COMMAND_EXIT_CODE="0"]
